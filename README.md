@@ -1,6 +1,6 @@
 clout-services-child-vagrant
 ==================
-Vagrant file for provisioning a clout-services-child machine
+Vagrant file for provisioning a clout-services-child machine. This machine will be Ubuntu 14.04 LTS.
 
 ## Installation
 Clone the Github repository
